@@ -1,6 +1,3 @@
-# Php-Database-Handling
+# Php-Unique-HTML-Color-Generator-From-String
 
-These are the php functions/classes to handle MySQL database actions like connecting, updating, querying, deleting, inserting easily. You will find two files:
-
-- database.php: The php class that is included in main.php
-- main.php: Sample php script showing how to use the database functionalities. 
+This is a php code that will generate an html color code from a string given as an input. It is useful in assigning unique html colors to different entities in your code. I have used it to generate unique colors for countries in http://www.musichemicals.com/europe/ and other continent maps.
