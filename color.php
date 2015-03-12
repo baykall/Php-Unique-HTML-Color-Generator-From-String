@@ -18,7 +18,6 @@ function get_color_char($no){
     $str = 'F';
   
   $str = strrev($str);
-  
   return $str;
 }
 function get_unique_color($str){
